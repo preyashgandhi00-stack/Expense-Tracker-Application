@@ -219,7 +219,7 @@ class ExpenseTracker:
 def main():
 
     print("Choose Dataset Option")
-    print("1. Use Default Dataset (expenses.csv)")
+    print("1. Use Default Dataset")
     print("2. Upload Custom Dataset")
 
     try:
@@ -338,4 +338,5 @@ def main():
 
 # Run program
 if __name__ == "__main__":
+
     main()
