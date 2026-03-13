@@ -1,0 +1,102 @@
+Date,Amount,Category,Description
+2024-01-01,12.0,Utilities,Gas bill
+2024-01-02,85.0,Transport,Metro card
+2024-01-03,80.0,Transport,Taxi ride
+2024-01-04,46.0,Food,Restaurant
+2024-01-05,126.0,Utilities,Mobile recharge
+2024-01-06,41.0,Entertainment,Concert ticket
+2024-01-07,194.0,Transport,Train ticket
+2024-01-08,64.0,Utilities,Water bill
+2024-01-09,53.0,Food,Breakfast
+2024-01-10,17.0,Food,Restaurant
+2024-01-11,23.0,Utilities,Mobile recharge
+2024-01-12,138.0,Transport,Bus ticket
+2024-01-13,51.0,Utilities,Internet bill
+2024-01-14,34.0,Food,Lunch
+2024-01-15,25.0,Utilities,Gas bill
+2024-01-16,60.0,Entertainment,Game purchase
+2024-01-17,70.0,Food,Lunch
+2024-01-18,59.0,Food,Groceries
+2024-01-19,72.0,Entertainment,Game purchase
+2024-01-20,20.0,Entertainment,Movie ticket
+2024-01-21,65.0,Utilities,Electricity bill
+2024-01-22,100.0,Utilities,Electricity bill
+2024-01-23,63.0,Transport,Train ticket
+2024-01-24,31.0,Utilities,Gas bill
+2024-01-25,137.0,Utilities,Mobile recharge
+2024-01-26,50.0,Utilities,Internet bill
+2024-01-27,101.0,Utilities,Internet bill
+2024-01-28,141.0,Entertainment,Streaming subscription
+2024-01-29,94.0,Food,Lunch
+2024-01-30,84.0,Food,Dinner
+2024-01-31,167.0,Transport,Bus ticket
+2024-02-01,94.0,Utilities,Mobile recharge
+2024-02-02,96.0,Food,Lunch
+2024-02-03,27.0,Entertainment,Game purchase
+2024-02-04,52.0,Utilities,Internet bill
+2024-02-05,64.0,Transport,Taxi ride
+2024-02-06,74.0,Utilities,Mobile recharge
+2024-02-07,124.0,Utilities,Gas bill
+2024-02-08,14.0,Utilities,Gas bill
+2024-02-09,161.0,Transport,Bus ticket
+2024-02-10,154.0,Transport,Metro card
+2024-02-11,144.0,Utilities,Mobile recharge
+2024-02-12,168.0,Utilities,Mobile recharge
+2024-02-13,164.0,Food,Lunch
+2024-02-14,23.0,Transport,Bus ticket
+2024-02-15,119.0,Entertainment,Game purchase
+2024-02-16,191.0,Food,Dinner
+2024-02-17,70.0,Transport,Fuel
+2024-02-18,176.0,Food,Breakfast
+2024-02-19,142.0,Transport,Train ticket
+2024-02-20,120.0,Food,Lunch
+2024-02-21,49.0,Entertainment,Streaming subscription
+2024-02-22,51.0,Food,Restaurant
+2024-02-23,161.0,Transport,Metro card
+2024-02-24,62.0,Entertainment,Theme park
+2024-02-25,17.0,Food,Restaurant
+2024-02-26,122.0,Utilities,Water bill
+2024-02-27,20.0,Food,Dinner
+2024-02-28,25.0,Utilities,Electricity bill
+2024-02-29,181.0,Utilities,Internet bill
+2024-01-01,103.0,Food,Groceries
+2024-01-02,129.0,Entertainment,Game purchase
+2024-01-03,194.0,Transport,Fuel
+2024-01-04,18.0,Food,Lunch
+2024-01-05,15.0,Entertainment,Movie ticket
+2024-01-06,110.0,Entertainment,Streaming subscription
+2024-01-07,112.0,Utilities,Mobile recharge
+2024-01-08,114.0,Entertainment,Concert ticket
+2024-01-09,152.0,Transport,Metro card
+2024-01-10,41.0,Entertainment,Concert ticket
+2024-01-11,34.0,Food,Dinner
+2024-01-12,189.0,Food,Lunch
+2024-01-13,30.0,Entertainment,Game purchase
+2024-01-14,151.0,Food,Dinner
+2024-01-15,68.0,Entertainment,Streaming subscription
+2024-01-16,173.0,Entertainment,Streaming subscription
+2024-01-17,167.0,Entertainment,Streaming subscription
+2024-01-18,146.0,Entertainment,Streaming subscription
+2024-01-19,52.0,Entertainment,Concert ticket
+2024-01-20,113.0,Entertainment,Theme park
+2024-01-21,155.0,Entertainment,Streaming subscription
+2024-01-22,184.0,Food,Dinner
+2024-01-23,142.0,Entertainment,Theme park
+2024-01-24,73.0,Food,Dinner
+2024-01-25,93.0,Transport,Train ticket
+2024-01-26,96.0,Entertainment,Theme park
+2024-01-27,95.0,Entertainment,Streaming subscription
+2024-01-28,140.0,Food,Restaurant
+2024-01-29,166.0,Entertainment,Theme park
+2024-01-30,20.0,Food,Breakfast
+2024-01-31,81.0,Transport,Metro card
+2024-02-01,191.0,Food,Restaurant
+2024-02-02,52.0,Food,Restaurant
+2024-02-03,58.0,Entertainment,Theme park
+2024-02-04,151.0,Entertainment,Movie ticket
+2024-02-05,171.0,Food,Restaurant
+2024-02-06,39.0,Entertainment,Concert ticket
+2024-02-07,34.0,Food,Restaurant
+2024-02-08,30.0,Utilities,Water bill
+2024-02-09,190.0,Utilities,Electricity bill
+2026-03-12,250.0,Food,Luch
